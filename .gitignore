@@ -1,2 +1,7 @@
 .idea/*
 .DS_Store
+**.model
+assmnt3/texts/*
+assmnt3/aclImdb/*
+**.ipynb
+assmnt3/saved_models/
